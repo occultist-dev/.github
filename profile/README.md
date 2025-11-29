@@ -1,6 +1,6 @@
 # Occultist Framework
 
-The Occultist framework is a work in progress fullstack SSR Javascript framework will achieve many of the features popular by other modern Javascript frameworks and more. However Occultist leans into RESTful solutions, favours control over HTTP caching and content type negotiation over static bundlers can be used to integrate specialized content types alongside Occultist's primary content type of JSON-LD.
+The Occultist framework is a work in progress fullstack SSR Javascript framework can achieve many of the features popular by other modern Javascript frameworks but with its own spin on them. However Occultist leans into RESTful solutions, favours control over HTTP caching and content type negotiation over static bundlers can be used to integrate specialized content types alongside Occultist's primary content type of JSON-LD.
 
 
 The Occultist framework consists of the following components.
